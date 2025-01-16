@@ -21,6 +21,7 @@
 * [Online-Courses.Club](https://online-courses.club/)
 * [TutFlix](https://tutflix.org/)
 * [Hide01](https://hide01.ir/) - [Beta](https://beta.hide01.ir/)
+* [FileCR](https://filecr.com/en/)
 * [CourseUpload](https://courseupload.com/)
 * [GetFreeCourses](https://getfreecourses.co/)
 * [FreeCourseSite](https://freecoursesite.com/)
